@@ -1,62 +1,45 @@
-# My Portfolio
+# Prashant Ikkalaki — Portfolio
 
-Welcome to my portfolio website! This is a dynamic, responsive portfolio showcasing my education and experience.
+A responsive personal portfolio showcasing my journey as a **Full-Stack Developer, Cloud/DevOps Developer, and Java Developer**.
 
-## Features
-- ✨ About Me section with professional introduction
-- 🎓 3 Education boxes with details and icons
-- 📄 Resume download section
-- 🎨 Beautiful gradient background with animations
-- 📱 Fully responsive design
+## Tech Stack
 
-## Files
-- `index.html` - Main portfolio structure
-- `style.css` - Styling and animations
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express.js, Python, FastAPI
+- **Programming:** Java, C, Python
+- **Databases:** MySQL, MongoDB, MongoDB Atlas
+- **Cloud & DevOps:** Azure, AWS, Docker, GitHub, GitHub Actions, Terraform
+- **Tools:** VS Code, Postman, Vercel, Render
 
-## How to Deploy to GitHub Pages
+## Featured Work
 
-### Step 1: Create a GitHub Account
-Go to https://github.com and sign up (if you don't have an account)
+- **TravelMate / TripSync** — Full-stack travel planning and traveler-matching platform.
+- **ResumeIQ AI** — AI-powered resume analysis and skill-gap identification.
+- **Razorpay Payment Gateway** — Full-stack payment integration with order creation and payment verification.
+- **AgroBridge AI** — Agriculture-focused application integrating Google Earth Engine data.
+- **Global Peace Index ML** — Machine-learning experiments for peace-index prediction and analysis.
 
-### Step 2: Create a New Repository
-1. Click the "+" icon in the top right
-2. Select "New repository"
-3. Name it: `portfolio` (or any name)
-4. Keep it public
-5. Click "Create repository"
+## Education
 
-### Step 3: Push Your Code
-Run these commands in PowerShell:
-```powershell
-cd d:\ABC\cursor
-git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
-git branch -M main
-git push -u origin main
-```
+**Master of Computer Applications (MCA)**  
+PES University · 2025–2027
 
-Replace `YOUR_USERNAME` with your actual GitHub username
+## Current Focus
 
-### Step 4: Enable GitHub Pages
-1. Go to your repository settings (Settings tab)
-2. Scroll to "GitHub Pages" section
-3. Select "main" branch as source
-4. Click Save
+- Java and Data Structures & Algorithms
+- Next.js and modern React development
+- Cloud engineering and DevOps
+- CI/CD and infrastructure automation
+- AI-powered full-stack applications
 
-### Step 5: Get Your Live URL
-Your portfolio will be live at:
-`https://YOUR_USERNAME.github.io/portfolio`
+## Portfolio
+
+🌐 Portfolio: https://prashant-112-coder.github.io/myportfolio/
+
+## GitHub
+
+💻 GitHub: https://github.com/Prashant-112-coder
 
 ---
 
-## Preview
-Open `index.html` in your browser to see the portfolio locally!
-
-## Customization
-- Edit the About Me text in `index.html`
-- Update education details
-- Change colors in `style.css`
-- Add your profile image and update the path
-
----
-
-Made with ❤️
+Built with curiosity, code, and continuous learning. 🚀
