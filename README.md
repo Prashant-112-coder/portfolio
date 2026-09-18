@@ -34,7 +34,7 @@ PES University · 2025–2027
 
 ## Portfolio
 
-🌐 Portfolio: https://prashant-112-coder.github.io/myportfolio/
+🌐 Portfolio:https://new-portfolio-blond-five.vercel.app/
 
 ## GitHub
 
